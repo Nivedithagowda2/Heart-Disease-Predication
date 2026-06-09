@@ -58,11 +58,17 @@ Copy code
 Heart-Disease-Predication/
 │
 ├── app.py                # Streamlit application
+
 ├── KNN_heart.pkl         # Trained ML model
+
 ├── scaler.pkl            # StandardScaler object
+
 ├── colunms.pkl           # Expected columns list
+
 ├── heart.xls             # Sample dataset
+
 ├── heart.ipynb           # Jupyter notebook training code
+
 └── .gitignore
 
 ▶️ Running the application
