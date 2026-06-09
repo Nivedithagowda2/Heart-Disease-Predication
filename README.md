@@ -55,7 +55,10 @@ Scaling	StandardScaler
 📦 Project Structure
 graphql
 Copy code
+
+
 Heart-Disease-Predication/
+
 │
 ├── app.py                # Streamlit application
 
@@ -70,6 +73,7 @@ Heart-Disease-Predication/
 ├── heart.ipynb           # Jupyter notebook training code
 
 └── .gitignore
+
 
 ▶️ Running the application
 bash
