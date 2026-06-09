@@ -4,6 +4,7 @@ A machine learning–powered web application that predicts Heart Disease Risk us
 This project supports multiple input formats (CSV, Excel, PDF) and automatically processes patient records to classify:
 
 🟥 HIGH RISK
+
 🟩 NORMAL RISK
 
 This repository includes the trained ML model, preprocessing pipeline, feature scaler, and a complete Streamlit web app.
@@ -36,6 +37,7 @@ Model loaded from KNN_heart.pkl
 Model predicts:
 
 1 → HIGH RISK
+
 0 → NORMAL
 
 💾 5. Downloadable Results
