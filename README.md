@@ -1,4 +1,4 @@
-❤️ Heart Disease Prediction (ML + Streamlit App)
+❤️ Heart Disease Prediction (ML + Streamlit App).
 
 A machine learning–powered web application that predicts Heart Disease Risk using clinical attributes.
 This project supports multiple input formats (CSV, Excel, PDF) and automatically processes patient records to classify:
